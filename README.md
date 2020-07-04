@@ -15,5 +15,6 @@ If you find something you think you can improve on in our module, please make a 
 * Any new script changes should be submitted to the `scripts` directory, we won't accept modules with unmentioned or redundant script changes in them.
 * Any new proposed zones or areas should be submitted both in a separate, empty ERF so we can review their additions, reductions, or changes before accepting.
 * Any and all modules submitted in a pull request should follow our [instructions](https://github.com/Arx-Fatalis-NWN/public-worlds/blob/master/instructions.txt).
+* Include an in-depth changelog of all your changes in your ERF to the letter, this makes it easier on us.
 
 If you find any bugs or want to request a feature to be added, feel free to create an issue or say something in our Discord. If your pull request is denied we will try our best to give you a reason behind our decision.
