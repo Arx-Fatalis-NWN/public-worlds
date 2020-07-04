@@ -1,0 +1,13 @@
+Make sure that each collaborator, or pull-request is issued with the following naming extensions. Otherwise, the pull request will not be accepted, nor pushed to the collection of module updates.
+
+DO not work on a module that is already been taken by a world builder. All pull requests in the latter will be denied by reviewers or project leads.
+The only exception, is if the world builder designated is either inactive, ill, or has granted permission.
+
+Legal ERF Naming:
+USER-MOD
+
+Naming is not allowed to exceed 16 Characters, and cannot use special characters. This is an engine limitation.
+
+Example:
+
+2CARXPLAZA
