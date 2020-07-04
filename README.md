@@ -1,2 +1,2 @@
-# worlds
-The worlds repo for the Arx world creators to submit their worlds. 
+# Public Arx Fatalis NWN Worlds
+The public repo for the public Arx Fatalis NWN worlds for the community to contribute to. 
